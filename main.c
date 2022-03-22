@@ -1,21 +1,17 @@
 
-/**
-  *           Application Name: ***** Employee Project ******
-  *
+/*
+             Application Name: ***** Employee Project ******
+  
+             LANGUAGE :     C
 
-              LANGUAGE :     C
+       	     Compiler ::    Codeblocks/dev c++
 
-			  Compiler ::    Codeblocks/dev c++
-
-
-
-			  Name:              Rudro Debnath
+              Name:              Rudro Debnath
               Class Roll:        18CSE025
               Session:           2017-18
               Semester & Year :  1st,1st
               department:        Computer Science and Engineering
 
-  *
   */
 
 
